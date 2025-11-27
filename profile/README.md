@@ -57,4 +57,51 @@
 2. 받은 피드백(PR)에 대한 답변  
 3. 필요시 추가 토론 → Discussion 업로드  
 
+## 기출 정리
 
+### 7기
+- 1주차: 문자열 계산기(calculator)
+  - https://github.com/woowacourse-precourse/java-calculator-7
+- 2주차: 자동차 경주(racingcar)
+  - https://github.com/woowacourse-precourse/java-racingcar-7
+- 3주차: 로또(lotto)
+  - https://github.com/woowacourse-precourse/java-lotto-7
+- 4주차: 편의점(convenience-store)
+  - https://github.com/woowacourse-precourse/java-convenience-store-7
+- 최종 코테: 출석(attendance)
+  - https://github.com/woowacourse-precourse/java-attendance-7
+
+### 6기
+- 1주차: 숫자 야구(baseball)
+  - https://github.com/woowacourse-precourse/java-baseball-6
+- 2주차: 자동차 경주(racingcar)
+- 3주차: 로또(lotto)
+- 4주차: 크리스마스(christmas)
+  - https://github.com/woowacourse-precourse/java-christmas-6
+- 최종 코테: 개발자 비상근무(oncall)
+  - https://github.com/woowacourse-precourse/java-oncall-6
+
+### 5기
+- 1주차: 백준 브론즈~실버 난이도 문제 7개 -> 이번 최종 코테 준비와 관련 없음
+- 2주차: 숫자 야구(baseball)
+- 3주차: 로또(lotto)
+- 4주차: 다리 건너기(bridge)
+  - https://github.com/bark20/java-bridge
+- 최종 코테: 점심 메뉴 추천(menu)
+  - https://github.com/70825/java-menu
+
+### 4기
+- 1주차: 숫자 야구(baseball)
+- 2주차: 자동차 경주(racingcar)
+- 3주차: 자판기(vendingmachine)
+  - [woowacourse/java-vendingmachine-precourse](https://github.com/woowacourse/java-vendingmachine-precourse)
+- 최종 코테: 페어매칭관리 애플리케이션(pairmatching)
+  - [woowacourse/java-pairmatching-precourse](https://github.com/woowacourse/java-pairmatching-precourse)
+
+### 3기
+- 1주차: 숫자 야구(baseball)
+- 2주차: 자동차 경주(racingcar)
+- 3주차: 지하철 노선도(subway-map)
+  - https://github.com/woowacourse/java-subway-map-precourse
+- 최종 코테: 지하철 노선도 경로 조회(subway-path)
+  - https://github.com/woowacourse/java-subway-path-precourse
